@@ -4,7 +4,7 @@
 
 ### Other
 
-[<img align='left' src='https://raw.githubusercontent.com/Nevysian/Nevysian/1539182abb2f8311e82c67911c13c36419625b78/icons/Discord.svg' alt='Nevi' width='32px' />][nevi]
+[<img align='left' src='https://raw.githubusercontent.com/Nevysian/Nevysian/master/icons/NeviNeutral.svg?token=AOV6W3UFD742KE2ARSEK35S7RPTTY' alt='Nevi' width='32px' />][nevi]
 
 [discord]: https://discord.com/users/657702969034407947
 [youtube]: https://www.youtube.com/channel/UCV7ejjvBuvhULn_hoM1sYwA
