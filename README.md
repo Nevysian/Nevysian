@@ -9,7 +9,7 @@
 ### Other
 
 [<img align='left' src='https://raw.githubusercontent.com/Nevysian/Nevysian/master/icons/NeviNeutral.svg' alt='Nevi' width='32px'>][nevi]
-[<img align='left' src='https://raw.githubusercontent.com/Nevysian/Nevysian/master/icons/Discord.svg' alt='Discord' width='32px'>][nevi_discord]
+* [<img align='left' src='https://raw.githubusercontent.com/Nevysian/Nevysian/master/icons/Discord.svg' alt='Discord' width='32px'>][nevi_discord]
 
 [discord]: https://discord.com/users/657702969034407947
 [youtube]: https://www.youtube.com/channel/UCV7ejjvBuvhULn_hoM1sYwA
