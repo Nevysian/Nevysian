@@ -8,9 +8,12 @@
 
 ### Other
 
-[<img align='left' src='https://raw.githubusercontent.com/Nevysian/Nevysian/master/icons/NeviNeutral.svg' alt='Nevi' width='32px'>][nevi]
-[<img align='left' src='https://raw.githubusercontent.com/Nevysian/Nevysian/master/icons/Discord.svg' alt='Discord' width='32px'>][nevi_discord]
-[Vote Me!][nevi_vote]
+[<img src='https://raw.githubusercontent.com/Nevysian/Nevysian/master/icons/NeviNeutral.svg' alt='Nevi' width='32px'>][nevi]
+
+Links:
+ * [Invite Me!](nevi)
+ * [Vote Me!](nevi_vote)
+ * [Community & Support Server.](nevi_discord)
 
 
 
