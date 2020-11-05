@@ -10,14 +10,12 @@
 
 [<img src='https://raw.githubusercontent.com/Nevysian/Nevysian/master/icons/NeviNeutral.svg' alt='Nevi' width='32px'>][nevi]
 
-[Nevi](nevi) is a discord bot that will let you customize, moderate and manage your discord server to your liking, with a lot of features and commands.
+[Nevi][nevi] is a discord bot that will let you customize, moderate and manage your discord server to your liking, with a lot of features and commands.
 
 Links:
- * [Invite Me!](nevi)
- * [Vote Me!](nevi_vote)
- * [Community & Support Server.](nevi_discord)
-
-
+ * [Invite Me!][nevi]
+ * [Vote Me!][nevi_vote]
+ * [Community & Support Server.][nevi_discord]
 
 [discord]: https://discord.com/users/657702969034407947
 [youtube]: https://www.youtube.com/channel/UCV7ejjvBuvhULn_hoM1sYwA
