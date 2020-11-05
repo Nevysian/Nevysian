@@ -10,7 +10,7 @@
 
 [<img src='https://raw.githubusercontent.com/Nevysian/Nevysian/master/icons/NeviNeutral.svg' alt='Nevi' width='32px'>][nevi]
 
-[Nevi][nevi] is a discord bot that will let you customize, moderate and manage your discord server to your liking, with a lot of features and commands.
+[Nevi][nevi] is a discord bot that will let you customize, moderate and manage your discord server to your liking, with a lot of features and commands for your discord server.
 
 Links:
  * [Invite Me!][nevi]
