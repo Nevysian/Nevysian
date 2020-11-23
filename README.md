@@ -22,4 +22,4 @@ Links:
 [twitter]: https://twitter.com/Nevysian
 [nevi]: https://discord.com/oauth2/authorize?client_id=703042010352713729&scope=bot&permissions=403008598
 [nevi_discord]: https://discord.gg/HErGxFK
-[nevi_vote]: https://top.gg/bot/703042010352713729
+[nevi_vote]: https://top.gg/bot/703042010352713729/vote
